@@ -11,7 +11,9 @@
 
 3.1.Cách chơi
 - Nhấn các phím W,A,S,D để di chuyển các ô số trên ma trận 4x4 để ghép 2 ô có giá trị giống nhau thành ô có giá trị gấp đôi.
+
 hoặc
+
 - Nhấn các phím mũi tên để di chuyển các ô số trên ma trận 4x4 để ghép 2 ô có giá trị giống nhau thành ô có giá trị gấp đôi.
 
 3.2.Luật chơi
