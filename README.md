@@ -21,6 +21,7 @@ hoặc
 - Sử dụng nhiều nhất kĩ thuật liên quan đến mảng.
 - Sử dụng các thư viện SDL_image,SDL_mixer,SDL_ttf để tạo hình ảnh, âm thanh.
 - Sử dụng pair,file,string.
+- 
 5.Tài liệu tham khảo
 - SDL: https://lazyfoo.net/tutorials/SDL/
 - Thuật toán: tham khảo trên The Coding Train.
