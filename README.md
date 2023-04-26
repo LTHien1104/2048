@@ -1,4 +1,4 @@
-# 2048 các kĩ thuật
+# 2048 
 1.Mô tả
 - Game kinh điển từng "làm mưa làm gió" những năm 14-15.
 - Mục tiêu của trò chơi là trượt các khối vuông có mang số trên một lưới vuông để kết hợp chúng lại và tạo ra khối vuông có giá trị 2048.
