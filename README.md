@@ -5,7 +5,7 @@
 
 2.Hướng dẫn cài đặt:
 - Cách 1: Run & Build trên codeblock đã cài các thư viện SDL2,SDL_Mixer,SDL_ttf,SDL_image.
-- Cách 2: Chạy file 2048.exe
+- Cách 2: Chạy file 2048.exe.
 
 3.Cách chơi & luật chơi
 
